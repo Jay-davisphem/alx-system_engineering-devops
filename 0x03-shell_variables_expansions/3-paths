@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((count = $(echo $PATH | tr -c -d ':' | wc -c)+1))
