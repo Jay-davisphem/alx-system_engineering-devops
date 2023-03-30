@@ -19,10 +19,9 @@ $ puppet apply [filename] #set up your coded configurations
 
 ### Environment
 * Language: puppet
-* OS: Ubuntu 14.04 LTS
+* OS: Ubuntu 22.04LTS
 * Editor: [Emacs puppet mode](https://github.com/voxpupuli/puppet-mode)
 * Style guidelines: [puppet-lint](http://puppet-lint.com/)
 ---
 ### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
-
+David Oluwafemi Joshua
